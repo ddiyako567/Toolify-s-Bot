@@ -31,12 +31,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By LeakHub`);
+  console.log(`🔗 Listening to MBRP: http://localhost:${port}`);
+  console.log(`🔗 Powered By MBRP`);
 });
 
 
-const statusMessages = ["Leak Hub","Playing Leak Hub"];
+const statusMessages = ["Watching MBRP","Montana Border TP","Huss Is Best!"];
 
 
 let currentIndex = 0;
