@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching MBRP","Montana Border TP","Huss Is Best!"];
+const statusMessages = ["Watching MBRP","Montana Border RP","Huss Is Best!","MBRP on TOP!];
 
 
 let currentIndex = 0;
